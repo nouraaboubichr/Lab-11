@@ -45,13 +45,13 @@
 * Le programme `Main` utilise `Scanner` pour permettre à l’utilisateur de rechercher et supprimer des mots.
 * Cet exercice permet de comparer les comportements et les performances des différentes implémentations de `Set`.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231320.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231354.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231403.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231411.png" />
 
 # Exercice 4 — Gestion d’un Dictionnaire Bilingue avec Map
 
@@ -63,13 +63,13 @@
 * La recherche par préfixe permet de trouver plusieurs mots correspondants afin de simuler une autocomplétion.
 * Le programme `Main` utilise `Scanner` pour tester la recherche, l’autocomplétion et la suppression d’entrées.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231434.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231453.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231503.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 231513.png" />
 
 # Exercice 5 — Maîtrise des Collections : Gestion d’une bibliothèque
 
