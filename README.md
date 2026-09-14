@@ -12,6 +12,8 @@
 
 <img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230106.png" />
 
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 232828.png" />
+
 # Exercice 2 — Gestionnaire de Tâches avec List
 
 * L’objectif est de créer un gestionnaire de tâches `TaskManager` en utilisant `List` et `ArrayList`.
