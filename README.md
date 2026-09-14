@@ -8,13 +8,9 @@
 * La classe `Main` utilise `Scanner` pour permettre à l’utilisateur d’ajouter, supprimer, rechercher et afficher les articles.
 * Cet exercice permet de comprendre la manipulation d’une liste et l’interaction avec l’utilisateur via la console.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230039.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230106.png" />
 
 # Exercice 2 — Gestionnaire de Tâches avec List
 
@@ -26,13 +22,18 @@
 * La méthode `sortByPriority()` permet de trier les tâches selon leur niveau de priorité.
 * Le programme `Main` permet de tester les différentes opérations sur la liste des tâches.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230119.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230135.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230219.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230238.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230246.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 230314.png" />
+
 
 # Exercice 3 — Maîtrise des Set : Gestionnaire de Mots Uniques
 
